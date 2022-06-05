@@ -1,0 +1,214 @@
+2022-05-03 07:03:20.155+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: dfe84da9  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:03:20.179+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: dfe84da9  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:20.180+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b558517f  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:03:20.201+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b558517f  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:25.141+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f22dba8e  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:03:25.164+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f22dba8e  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:25.164+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 929ba3d5  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:03:25.186+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 929ba3d5  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:30.144+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 22d6c918  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:03:30.168+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 22d6c918  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:30.168+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: a433edcc  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:03:30.194+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: a433edcc  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:35.142+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 10e2d898  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:03:35.168+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 10e2d898  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:35.169+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: e4660a9c  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:03:35.192+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: e4660a9c  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:40.159+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: cba42fbd  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:03:40.183+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: cba42fbd  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:40.184+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b0dc1b5a  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:03:40.207+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b0dc1b5a  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:45.148+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ae99ebfe  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:03:45.170+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ae99ebfe  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:45.171+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 787419f1  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:03:45.191+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 787419f1  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:50.145+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 982fddf2  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:03:50.168+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 982fddf2  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:50.169+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b75816b3  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:03:50.192+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b75816b3  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:55.144+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 726616f3  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:03:55.168+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 726616f3  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:03:55.169+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f388c808  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:03:55.192+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f388c808  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:00.139+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c81a802f  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:00.161+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c81a802f  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:00.162+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 87252321  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:00.196+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 87252321  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:05.142+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f95b9cd2  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:05.167+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f95b9cd2  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:05.168+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 4e73dccb  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:05.189+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 4e73dccb  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:10.169+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 19636b9d  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:10.193+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 19636b9d  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:10.193+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f3254742  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:10.221+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f3254742  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:15.148+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f27f6547  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:15.171+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f27f6547  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:15.172+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 394842c8  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:15.193+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 394842c8  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:20.161+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 2d1b42d5  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:20.187+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 2d1b42d5  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:20.188+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 723ac911  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:20.211+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 723ac911  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:25.169+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f6c5434a  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:25.193+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f6c5434a  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:25.194+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 18b05ad1  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:25.225+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 18b05ad1  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:30.144+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c202312f  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:30.169+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c202312f  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:30.171+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 8e6c8eff  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:30.198+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 8e6c8eff  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:35.145+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 5fd54fad  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:35.167+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 5fd54fad  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:35.167+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c77a2c7b  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:35.190+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c77a2c7b  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:40.135+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c91a6817  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:40.156+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c91a6817  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:40.157+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f9a3168f  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:40.181+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f9a3168f  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:45.151+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: dcd5d101  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:45.182+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: dcd5d101  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:45.183+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: e83fefca  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:45.209+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: e83fefca  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:50.143+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 6305537c  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:50.166+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 6305537c  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:50.167+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f066c073  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:50.191+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f066c073  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:55.147+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: e0302449  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:04:55.168+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: e0302449  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:04:55.169+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ab7d18d7  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:04:55.191+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ab7d18d7  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:00.144+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 67a05dda  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:00.166+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 67a05dda  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:00.167+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 89fc1c49  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:00.192+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 89fc1c49  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:05.142+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: fd108256  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:05.165+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: fd108256  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:05.166+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: fff01928  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:05.190+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: fff01928  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:10.135+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f429b168  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:10.164+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f429b168  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:10.165+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 7041ce2a  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:10.190+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 7041ce2a  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:15.160+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 878c0b4e  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:15.184+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 878c0b4e  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:15.185+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b1261d85  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:15.212+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b1261d85  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:20.135+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: cf8d73c8  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:20.160+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: cf8d73c8  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:20.160+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ff2f7816  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:20.183+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ff2f7816  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:25.156+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ca906809  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:25.180+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ca906809  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:25.181+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 2f0ff471  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:25.202+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 2f0ff471  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:30.154+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 803f5539  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:30.178+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 803f5539  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:30.178+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: aead024e  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:30.202+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: aead024e  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:35.142+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: fdab2e0f  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:35.165+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: fdab2e0f  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:35.166+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 0f077503  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:35.188+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 0f077503  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:40.145+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 2dc19214  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:40.166+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 2dc19214  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:40.167+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: d036bbd4  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:40.191+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: d036bbd4  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:45.153+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 0df37293  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:45.177+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 0df37293  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:45.177+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 29ec0269  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:45.200+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 29ec0269  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:50.155+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 64cd4db5  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:50.177+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 64cd4db5  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:50.178+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 4f2e39d2  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:50.198+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 4f2e39d2  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:55.142+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 7024d6e3  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:05:55.165+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 7024d6e3  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:05:55.166+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: fa6426dc  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:05:55.189+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: fa6426dc  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:00.180+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 302fc2de  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:00.202+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 302fc2de  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:00.203+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c0b427f3  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:00.225+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c0b427f3  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:05.142+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 261c4fc4  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:05.169+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 261c4fc4  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:05.170+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 768f213c  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:05.194+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 768f213c  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:10.264+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 047047e5  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:10.317+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 047047e5  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:10.317+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 552a9316  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:10.368+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 552a9316  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:15.142+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: a29fcd2b  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:15.165+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: a29fcd2b  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:15.166+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 8c75fd18  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:15.188+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 8c75fd18  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:20.157+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 902401ee  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:20.182+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 902401ee  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:20.184+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 0c4aca1a  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:20.207+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 0c4aca1a  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:25.154+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 5ba6e9f2  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:25.177+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 5ba6e9f2  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:25.178+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b940aac3  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:25.202+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b940aac3  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:30.169+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ba4d4cee  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:30.192+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ba4d4cee  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:30.193+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ad4aa9e0  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:30.214+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ad4aa9e0  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:35.142+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 4cd01d90  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:35.165+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 4cd01d90  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:35.166+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 7abf783d  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:35.189+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 7abf783d  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:40.147+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 35dcebd0  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:40.170+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 35dcebd0  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:40.171+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 7ad64fa0  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:40.196+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 7ad64fa0  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:45.200+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b21ff411  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:45.242+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b21ff411  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:45.243+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f086cad8  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:45.312+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f086cad8  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:50.136+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b88cd9a6  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:50.162+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: b88cd9a6  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:50.162+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c1ac615e  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:50.184+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c1ac615e  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:55.153+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ed7f9b89  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:06:55.176+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: ed7f9b89  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:06:55.176+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c0b985a7  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:06:55.197+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c0b985a7  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:00.184+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 9110cc8b  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:07:00.205+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 9110cc8b  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:00.206+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 858ef5fa  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:07:00.228+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 858ef5fa  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:05.171+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: d9034e90  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:07:05.193+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: d9034e90  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:05.193+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c6c6c087  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:07:05.215+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: c6c6c087  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:10.142+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 9abf5f4b  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:07:10.164+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 9abf5f4b  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:10.164+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 1441698a  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:07:10.187+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 1441698a  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:15.143+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: fb5fb44d  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:07:15.166+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: fb5fb44d  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:15.167+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 07259f44  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:07:15.188+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 07259f44  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:20.157+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f24d5887  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:07:20.184+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: f24d5887  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:20.185+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 3f6d5766  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:07:20.208+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 3f6d5766  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:25.144+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: cb6aa969  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:07:25.167+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: cb6aa969  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:25.168+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 195d69ff  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:07:25.190+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 195d69ff  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:30.145+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: a9df70d3  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:07:30.167+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: a9df70d3  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:30.168+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 52ff4a49  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:07:30.190+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 52ff4a49  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:35.142+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 3267c9ca  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:07:35.167+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 3267c9ca  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:35.168+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 3d3c136a  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:07:35.191+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 3d3c136a  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:40.134+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 54138b99  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:07:40.156+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 54138b99  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:40.156+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 0c611435  SENT:     -X GET https://192.168.1.41/router/info 
+2022-05-03 07:07:40.178+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 0c611435  RECEIVED: 200:{"data":[]}}
+2022-05-03 07:07:45.150+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 170d6207  SENT:     -X GET https://192.168.1.31/switch/info 
+2022-05-03 07:07:45.175+02:00 INFO  testserver01 RIDe416ab9b vRestLogger: 170d6207  RECEIVED: 200:{"data":[]}}

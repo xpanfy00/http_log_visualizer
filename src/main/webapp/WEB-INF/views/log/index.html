@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Index</title>
+    <link rel="stylesheet" type="text/css" media="all"
+          href="../../css/style.css" th:href="@{/css/style.css}"/>
+</head>
+<body>
+
+<section class="section_">
+    <div class="list-div">
+        <h1>List</h1>
+        <div class="block_list">
+            <div class="profi_item">
+                <p style="padding: 20px" th:each="lists: ${list}">
+                    <a class="buttonMY" type="submit" th:href="@{${lists.getIp()}}" th:text="${lists.getServerName() + '-------->' + lists.getIp()}" ></a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="detail-div">
+        <h1>Detail</h1>
+            <div id="l0_b1" class="block_detail">
+                <div id="l1_s1" class="profi_item">
+                    <input type="checkbox" id="read-more-checker" data-more-checker="read-more" />
+                    <div class="limiter">
+                        <p th:each="list:${output}">
+                            <a th:text="${list}"></a>
+                        </p>
+                        <div class="bottom"></div>
+                    </div>
+                    <label for="read-more-checker" class="read-more-button"></label>
+                </div>
+            </div>
+
+    </div>
+</section>
+</body>
+</html>

@@ -1,0 +1,126 @@
+.section_{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    max-width: 900px;
+    padding: 25px;
+}
+
+
+.buttonMY {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: center;
+}
+
+.my-background{
+    margin: 3rem;
+    background: bisque;
+}
+
+.sent-div{
+    max-width: 900px;
+    max-height: 400px;
+    padding: 20px;
+    background: aquamarine;
+    float: left;
+    width: 550px;
+    height: 200px;
+    overflow: hidden;
+
+}
+
+.received-div{
+    max-width: 900px;
+    max-height: 400px;
+    padding: 20px;
+    background: burlywood;
+    float: left;
+    width: 550px;
+    height: 200px;
+    overflow: hidden;
+}
+.list-div{
+    max-width: 900px;
+    max-height: 800px;
+    padding: 20px;
+    background: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    position: center;
+
+}
+.detail-div{
+    max-width: 900px;
+    padding: 20px;
+    background: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    position: center;
+
+}
+.block_list {
+    margin: 3rem;
+    max-width: 700px;
+    background: bisque;
+}
+
+.block_detail {
+    margin: 3rem;
+    max-width: 700px;
+}
+.profi_item {
+    display: flex;
+    flex-direction: row;
+    border: black solid 1px;
+}
+
+.limiter {
+    max-height: 200px;
+    overflow: hidden;
+    position: relative;
+    padding-left: 10px;
+}
+.limiter .bottom {
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(
+            to bottom,
+            rgb(255 217 29 / 0%),
+            rgb(255 255 255)85%);
+    width: 100%;
+    height: 20px;
+    opacity: 1;
+    transition: 0.3s;
+}
+
+[data-more-checker^="read-more"] {
+    opacity: 0;
+    position: absolute;
+}
+[data-more-checker^="read-more"]:checked ~ .limiter {
+    max-height: none;
+}
+[data-more-checker^="read-more"]:checked ~ .limiter .bottom {
+    opacity: 0;
+    transition: 0.3s;
+}
+[data-more-checker^="read-more"] ~ .read-more-button:before  {
+    content: "Show»";
+}
+[data-more-checker^="read-more"]:checked ~ .read-more-button:before {
+    content: "Hide«";
+}
+
+.read-more-button {
+    cursor: pointer;
+    display: inline-block;
+    color: #777;
+    text-decoration: underline;
+}

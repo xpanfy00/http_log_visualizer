@@ -1,0 +1,3 @@
+    <p th:each="logs : ${logs}" th:text="${logs.getDate() + ': ' + logs.getTime() + ': ' + logs.getINFO() + ': ' + logs.getName() + ': ' +
+        logs.getRID() + ': ' +  logs.getvRestLogger() + ': ' + logs.getId()+ ': ' + logs.getType() + ': ' + logs.getParam() + ': ' +
+        logs.getRequest() + ': ' + logs.getServer() }">VALUE</p>
